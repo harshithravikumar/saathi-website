@@ -74,13 +74,11 @@ h1, h2, h3, h4, h5, h6 {
 #header.header-scrolled {
   background: rgba(0, 0, 0, 0.9);
   padding: 20px 0;
-  height: 62px;
+  height: 92px;
   transition: all 0.5s;
 }
 
-#header #logo {
-  float: left;
-}
+
 
 @media (min-width: 1024px) {
   #header #logo {
@@ -670,7 +668,7 @@ body.mobile-nav-active #mobile-nav-toggle {
   padding: 0 20px 20px 20px;
 }
 #about-brief{
-  background: linear-gradient(rgba(1, 2, 2, 0.5), rgba(0, 0, 0, 0.8)), url("../images/w.jpg") no-repeat fixed center center;
+  background: linear-gradient(rgba(1, 2, 2, 0.5), rgba(0, 0, 0, 0.8)), url("../images/about.jpg") no-repeat fixed center center;
 }
 
 /*counsellors*/
